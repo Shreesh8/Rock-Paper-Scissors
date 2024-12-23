@@ -15,7 +15,3 @@ This is a simple Rock-Paper-Scissors game implemented using HTML, CSS, and JavaS
 - The bot randomly selects a choice.
 - The game compares the user's choice with the bot's choice to determine the winner.
 - The score is updated, and a message is displayed indicating the result of the game.
-
-## License
-
-This project is licensed under the MIT License.
